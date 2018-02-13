@@ -1,6 +1,6 @@
 {
   "name": "SSH Tunnel",
-  "version": "0.0.1",
+  "version": "0.2.0",
   "slug": "ssh-tunnel",
   "description": "SSH Tunnel",
   "url": "https://github.com/josa42/hassio-addon-ssh-tunnel",
